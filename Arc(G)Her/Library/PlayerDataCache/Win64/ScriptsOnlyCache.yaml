@@ -13,8 +13,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
     Unity.Rider.Editor.dll:
@@ -721,4 +719,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MainScene.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: "C:/Users/bahri/Desktop/Yeni klas\xF6r (7)/Arc(G)Her.exe"
+  playerPath: "C:/Users/bahri/Desktop/Yeni klas\xF6r/Arc(G)Her.exe"
